@@ -4901,6 +4901,17 @@ textarea.form-control-lg {
   display: none;
 }
 
+.badge-domain {
+  display: inline-block ;
+  background-color: #0e5cc1;
+  font-size: 12px;
+  color: white;
+  padding: 2px 4px;
+  text-align: center;
+  border-radius: 4px;
+  // width: 45px;
+}
+
 .btn .badge {
   position: relative;
   top: -1px;
@@ -11307,8 +11318,8 @@ header.masthead {
   background-color: #181a1d;
   background: url("../assets/img/sio-aerial-view-UCSanDiego-ErikJepsen.jpg") no-repeat center center;
   background-size: cover;
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 header.masthead:before {
   content: "";
@@ -11325,8 +11336,8 @@ header.masthead h1, header.masthead .h1 {
 }
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: rem;
+    padding-bottom: 3rem;
   }
   header.masthead h1, header.masthead .h1 {
     font-size: 3rem;
