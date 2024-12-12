@@ -1,3 +1,3 @@
-# showcase-24
+# showcase-25
 
-Source for dsc-capstone.org/showcase-24, which (as of 1/19/2024) is pointed to by hdsishowcase.com.
+Source for dsc-capstone.org/showcase-25.
